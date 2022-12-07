@@ -17,4 +17,6 @@ function numberToString(num) {
 
 /* Вариант 4 */
   const numberToString = num => `${num}`;
+
+  /* Вариант 5 */
   
