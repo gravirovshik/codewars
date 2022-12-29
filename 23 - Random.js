@@ -16,6 +16,4 @@ function Randomize(str, n) {
 }
 
 
-let str = 'qwer!@##*!(&$(*$!$^tyuiop'
-console.log(Randomize(str, 212));
 
