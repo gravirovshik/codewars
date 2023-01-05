@@ -60,3 +60,5 @@
 28. Find Vowels - Ваша задача - написать функцию, которая принимает строку и возвращает новую строку с удаленными всеми гласными.Например, строка "Этот веб-сайт для неудачников, ЛОЛ!" стала бы "This wbst s fr lsrs LL!".Примечание: для этого ката y не считается гласной.
 
 29. Mumbling - This time no story, no theory. The examples below show you how to write function accum: accum("abcd") -> "A-Bb-Ccc-Dddd"; accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+
+30. List Filtering - В этом ката вы создадите функцию, которая принимает список неотрицательных целых чисел и строк и возвращает новый список с отфильтрованными строками.
