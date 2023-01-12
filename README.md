@@ -70,3 +70,5 @@
 33. Sum of two lowest positive integers - Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. No floats or non-positive integers will be passed
 
 34. Isograms - An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
+
+35. Count consonants - Complete the function that takes a string of English-language text and returns the number of consonants in the string. Consonants are all letters used to write English excluding the vowels a, e, i, o, u.
