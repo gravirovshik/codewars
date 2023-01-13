@@ -72,3 +72,5 @@
 34. Isograms - An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
 
 35. Count consonants - Complete the function that takes a string of English-language text and returns the number of consonants in the string. Consonants are all letters used to write English excluding the vowels a, e, i, o, u.
+
+36. Two to One - Take 2 strings s1 and s2 including only letters from a to z. Return a new sorted string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.
