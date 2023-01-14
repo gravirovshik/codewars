@@ -74,3 +74,5 @@
 35. Count consonants - Complete the function that takes a string of English-language text and returns the number of consonants in the string. Consonants are all letters used to write English excluding the vowels a, e, i, o, u.
 
 36. Two to One - Take 2 strings s1 and s2 including only letters from a to z. Return a new sorted string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.
+
+37. Friend or Foe? - Make a program that filters a list of strings and returns a list with only your friends name in it. If a name has exactly 4 letters in it, you can be sure that it has to be a friend of yours! Otherwise, you can be sure he's not...
