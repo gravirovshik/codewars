@@ -78,3 +78,5 @@
 37. Friend or Foe? - Make a program that filters a list of strings and returns a list with only your friends name in it. If a name has exactly 4 letters in it, you can be sure that it has to be a friend of yours! Otherwise, you can be sure he's not...
 
 38. Sum of odd numbers - Given the triangle of consecutive odd numbers. Calculate the sum of the numbers in the nth row of this triangle.!
+
+40. Regex validate PIN code - ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits. If the function is passed a valid PIN string, return true, else return false.
