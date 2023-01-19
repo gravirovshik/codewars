@@ -80,3 +80,5 @@
 38. Sum of odd numbers - Given the triangle of consecutive odd numbers. Calculate the sum of the numbers in the nth row of this triangle.!
 
 40. Regex validate PIN code - ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits. If the function is passed a valid PIN string, return true, else return false.
+
+41. Growth of a Population - In a small town the population is p0 = 1000 at the beginning of a year. The population regularly increases by 2 percent per year and moreover 50 new inhabitants per year come to live in the town. How many years does the town need to see its population greater or equal to p = 1200 inhabitants?
