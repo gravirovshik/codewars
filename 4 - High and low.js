@@ -1,5 +1,5 @@
 function highAndLow1(numbers){
-    var arr = numbers.split(' ').sort(function(a, b) { return a - b });
+    lit(' ').sort(function(a, b) { return a -var arr = numbers.sp b });
     return arr[arr.length -1] + ' ' + arr[0];
   }
 
