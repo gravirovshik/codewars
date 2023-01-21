@@ -84,3 +84,5 @@
 41. Growth of a Population - In a small town the population is p0 = 1000 at the beginning of a year. The population regularly increases by 2 percent per year and moreover 50 new inhabitants per year come to live in the town. How many years does the town need to see its population greater or equal to p = 1200 inhabitants?
 
 42. Trimming a string - Return a function that will trim a string (the first argument given) if it is longer than the maximum string length (the second argument given). The result should also end with "..."
+
+43. Sort array by string length. Write a function that takes an array of strings as an argument and returns a sorted array containing the same strings, ordered from shortest to longest.
