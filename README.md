@@ -88,3 +88,5 @@
 43. Sort array by string length. Write a function that takes an array of strings as an argument and returns a sorted array containing the same strings, ordered from shortest to longest.
 
 44. Find the divisors - Create a function named divisors/Divisors that takes an integer n > 1 and returns an array with all of the integer's divisors(except for 1 and the number itself), from smallest to largest.
+
+45. Number of People in the Bus. There is a bus moving in the city which takes and drops some people at each bus stop. You are provided with a list (or array) of integer pairs. Elements of each pair represent the number of people that get on the bus (the first item) and the number of people that get off the bus (the second item) at a bus stop.
