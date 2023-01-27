@@ -100,4 +100,4 @@ If the decimal point is on the right side of the number (that is, the count of d
 
 49. Training JS #14: Methods of Number object--toString() and toLocaleString(). Coding in function colorOf. function accept 3 parameter:r g b. It means value of color red green and blue. the value range is 0-255. Use toString(16) Convert numbers r g b to hex string form. at last, combine them to a web color code and return it. the color code should starting with "#". and then use 2 characters per color.
 
-50. Training JS #34: methods of Math---pow() sqrt() and cbrt() - 
+50. Training JS #34: methods of Math---pow() sqrt() and cbrt() - Coding in function cutCube. function accept 2 parameter: volume and n. volume is the volume of a cube. If we cut the cube into n block. please determine whether the length of the cube is an integer. return true or false.
